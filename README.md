@@ -80,12 +80,12 @@ The dashboard helps understand campaign effectiveness and evaluate marketing cha
 - Designing interactive business intelligence dashboards.
 - Generating meaningful insights from marketing data.
 
-- **Dashboard Preview**
+**Dashboard Preview**
 
-- **1. Campaign Overview**
-- ![Campaign Overview](Images/Campaign-overview.png)
+**1. Campaign Overview**
+![Campaign Overview](Images/Campaign-overview.png)
 
-- **2. Channel And Audience Analysis**
+**2. Channel And Audience Analysis**
 ![Channel Analysis](Images/Channel-analysis.png)
 
 **👨‍💻 Author**
