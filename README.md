@@ -83,10 +83,10 @@ The dashboard helps understand campaign effectiveness and evaluate marketing cha
 - **Dashboard Preview**
 
 - **1. Campaign Overview**
-- ![Campaign Overview](images/Campaign-overview.png)
+- ![Campaign Overview](Images/Campaign-overview.png)
 
 - **2. Channel And Audience Analysis**
-![Channel Analysis](images/Channel-analysis.png)
+![Channel Analysis](Images/Channel-analysis.png)
 
 **👨‍💻 Author**
 
